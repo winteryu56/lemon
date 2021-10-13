@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "update": {
     "version": "1.0",
     "message": ""
@@ -22,7 +22,7 @@
   },
   "announce": {
     "show": "1",
-    "title": "欢迎使用柠檬电影",
+    "title": "欢迎使用柠檬视频",
     "contents": [
       {
         "content": "本App所有资源"

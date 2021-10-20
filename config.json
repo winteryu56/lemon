@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
+  "version": "1.2.1",
   "update": {
-    "version": "1.1",
-    "message": ""
+    "version": "1.2",
+    "message": "修复了一些问题"
   },
   "live_m3u8s": [
     ".mu3u8",
@@ -196,7 +196,8 @@
     "不夜城",
     "解救吾先生",
     "困惑的浪漫",
-    "交换的一天"
+    "交换的一天",
+    "幸福出租车"
   ],
   "excluded_filter_films": [
     "速度与激情"

@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
+  "version": "1.6.1",
   "update": {
-    "version": "1.3",
+    "version": "1.6",
     "message": ""
   },
   "live_m3u8s": [
@@ -17,17 +17,40 @@
   ],
   "buffering_timeout": 30,
   "filter_results_enabled": 0,
+  "native_play": 1,
   "online_play_source": "© 2018-2021 努努影院",
   "appId": "",
-  "review": 1,
+  "review": 0,
   "drawer": {
     "txt": "把寻常的人生过好，才是最不寻常的事。",
     "author": "《心灵奇旅》",
     "bg": "http://wx1.sinaimg.cn/crop.124.0.1294.719/9d0d09ably1gg7t0xry57j21c40k0nkc.jpg"
   },
+  "swipes": [
+    {
+      "title": "沙丘 Dune (2021)",
+      "img": "https://pic.rmb.bdstatic.com/bjh/4ccc95cc03fb9176c8570529a3002ffc.jpeg",
+      "href": "https://www.nunuyy.top/dianying/89996.html"
+    },
+    {
+      "title": "五个扑水的少年",
+      "img": "https://pic.rmb.bdstatic.com/bjh/124a1f652ed983d4ac29b97decca27e2.jpeg",
+      "href": "https://www.nunuyy.top/dianying/90969.html"
+    },
+    {
+      "title": "兰斯基",
+      "img": "https://pic.rmb.bdstatic.com/bjh/affbacbb8bcd9cae48a3b990e9dc6190.jpeg",
+      "href": "https://www.nunuyy.top/dianying/89468.html"
+    },
+    {
+      "title": "摩加迪沙",
+      "img": "https://pic.rmb.bdstatic.com/bjh/4a6f290b661d4fe09610d906546ccf11.jpeg",
+      "href": "https://www.nunuyy.top/dianying/91392.html"
+    }
+  ],
   "announce": {
     "show": "1",
-    "title": "欢迎使用柠檬视频",
+    "title": "欢迎使用柠檬电影",
     "contents": [
       {
         "content": "本App所有资源"

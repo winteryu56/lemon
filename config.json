@@ -1,7 +1,7 @@
 {
-  "version": "1.6.2",
+  "version": "1.7.1",
   "update": {
-    "version": "1.6",
+    "version": "1.7",
     "message": ""
   },
   "live_m3u8s": [
@@ -48,6 +48,18 @@
       "href": "https://www.nunuyy.top/dianying/91392.html"
     }
   ],
+  "recommends": [
+    {
+      "title": "说电影",
+      "uid": "5769702533",
+      "type": 1
+    },
+    {
+      "title": "看电影",
+      "uid": "2259107520",
+      "type": 0
+    }
+  ],
   "announce": {
     "show": "1",
     "title": "欢迎使用柠檬电影",
@@ -56,7 +68,7 @@
         "content": "本App所有资源"
       },
       {
-        "content": "来源于第三方搜索引擎，柠檬视频无权增加、修改、删除任何信息。\n\n",
+        "content": "来源于第三方搜索引擎，柠檬电影无权增加、修改、删除任何信息。\n\n",
         "highlight": "1"
       },
       {

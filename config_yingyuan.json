@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "update": {
     "version": "1.7",
     "message": ""
@@ -20,7 +20,7 @@
   "native_play": 1,
   "online_play_source": "© 2018-2021 努努影院",
   "appId": "",
-  "review": 1,
+  "review": 0,
   "drawer": {
     "txt": "把寻常的人生过好，才是最不寻常的事。",
     "author": "《心灵奇旅》",

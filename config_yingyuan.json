@@ -1,7 +1,7 @@
 {
-  "version": "1.6.1",
+  "version": "1.7.1",
   "update": {
-    "version": "1.6",
+    "version": "1.7",
     "message": ""
   },
   "live_m3u8s": [
@@ -20,7 +20,7 @@
   "native_play": 1,
   "online_play_source": "© 2018-2021 努努影院",
   "appId": "",
-  "review": 1,
+  "review": 0,
   "drawer": {
     "txt": "把寻常的人生过好，才是最不寻常的事。",
     "author": "《心灵奇旅》",
@@ -33,19 +33,19 @@
       "href": "https://www.nunuyy.top/dianying/89996.html"
     },
     {
-      "title": "钛 Titane (2021)",
-      "img": "https://pic.rmb.bdstatic.com/bjh/16416739b9c6db181b062ff6c94ee816.jpeg",
-      "href": "https://www.nunuyy.top/dianying/91970.html"
+      "title": "最爱",
+      "img": "https://pic.rmb.bdstatic.com/bjh/cbab551241d9ba84f11b465d9aa71566.jpeg",
+      "href": "https://www.nunuyy.cc/dianshiju/92093.html"
     },
     {
-      "title": "风信子之恋 Operation Hyacinth (2021)",
-      "img": "https://pic.rmb.bdstatic.com/bjh/3345b3d2dd50cd30452559ea39178884.jpeg",
-      "href": "https://www.nunuyy.top/dianying/91998.html"
+      "title": "再见爱人",
+      "img": "https://pic.rmb.bdstatic.com/bjh/1f823e04c1be0cfbd22d27b0b8ef99af.jpeg",
+      "href": "https://www.nunuyy.top/zongyi/89858.html"
     },
     {
-      "title": "明天的餐桌",
-      "img": "https://pic.rmb.bdstatic.com/bjh/f6989c97006f7f2100206eb19f76b84d.jpeg",
-      "href": "https://www.nunuyy.top/dianying/91630.html"
+      "title": "国王排名",
+      "img": "https://pic.rmb.bdstatic.com/bjh/76d68aa4fe9063b0f2200c93b5dc59db.jpeg",
+      "href": "https://www.nunuyy.top/dongman/91825.html"
     }
   ],
   "announce": {
@@ -224,10 +224,7 @@
     "解救吾先生",
     "困惑的浪漫",
     "交换的一天",
-    "幸福出租车",
-    "肉体",
-    "一个女孩和一个男孩",
-    "拉斯维加斯快车道"
+    "幸福出租车"
   ],
   "excluded_filter_films": [
     "速度与激情"

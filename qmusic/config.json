@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0.1",
+  "version": "1.2.0.1",
   "update": {
-    "version": "1.0.0",
+    "version": "1.2.0",
     "message": "1、优化播放体验"
   },
   "search_hint": "搜索你想听的轻音乐",
-  "review" : 1,
+  "review" : 0,
   "huawei": "0",
   "host": "http://www.htcyy.com",
   "referer": "http://www.htcyy.com",
   "referer1": "http://www.htqyy.com",
-  "limited": "40",
+  "limited": "20",
   "found": "https://jp.rsscc.com/config/ios/testicons/we/1.json",
   "vipbg": "http://i.htcyy.com/img7/0/58.jpg",
   "rank": [

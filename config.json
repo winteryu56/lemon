@@ -1,5 +1,5 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "update": {
     "version": "1.7",
     "message": ""
@@ -18,7 +18,7 @@
   "buffering_timeout": 30,
   "filter_results_enabled": 0,
   "native_play": 1,
-  "online_play_source": "© 2018-2021 努努影院",
+  "online_play_source": "© 2018-2022 努努影院",
   "appId": "",
   "review": 0,
   "drawer": {

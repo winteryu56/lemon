@@ -1,5 +1,5 @@
 {
-  "version": "1.7.3",
+  "version": "1.7.4",
   "update": {
     "version": "1.7",
     "message": ""
@@ -9,8 +9,8 @@
     ".mp4",
     "play.php"
   ],
-  "film_url": "https://www.nunuyy.top",
-  "film_url_host": "www.nunuyy.top",
+  "film_url": "https://www.nunuyy1.top",
+  "film_url_host": "www.nunuyy1.top",
   "film_m3u8s": [
     ".m3u8",
     ".mp4"

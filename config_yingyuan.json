@@ -1,8 +1,8 @@
 {
-  "version": "1.7.3",
+  "version": "1.9.1",
   "update": {
-    "version": "1.7",
-    "message": ""
+    "version": "1.9",
+    "message": "修复了一些问题"
   },
   "live_m3u8s": [
     ".mu3u8",

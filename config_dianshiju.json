@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "update": {
     "version": "2.0",
     "message": ""
@@ -21,7 +21,7 @@
   "native_play": 1,
   "online_play_source": "© 2018-2022 蛋蛋赞影院",
   "appId": "",
-  "review": 0,
+  "review": 1,
   "drawer": {
     "txt": "每个人不一样，你经历的我没有经历，我经历的你也没有经历，所以谁都不要小看谁。",
     "author": "《流金岁月》",

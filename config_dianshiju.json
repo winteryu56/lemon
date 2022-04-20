@@ -1,7 +1,7 @@
 {
-  "version": "1.8.3",
+  "version": "2.0.1",
   "update": {
-    "version": "1.8",
+    "version": "2.0",
     "message": ""
   },
   "live_m3u8s": [
@@ -9,16 +9,17 @@
     ".mp4",
     "play.php"
   ],
-  "film_url": "https://www.nnyy6.top",
-  "film_url_host": "www.nnyy6.top",
+  "film_url": "https://www.dandanzan10.top",
+  "film_url_host": "www.dandanzan10.top",
   "film_m3u8s": [
     ".m3u8",
     ".mp4"
   ],
+  "limited": "0",
   "buffering_timeout": 30,
   "filter_results_enabled": 0,
   "native_play": 1,
-  "online_play_source": "© 2018-2022 努努影院",
+  "online_play_source": "© 2018-2022 蛋蛋赞影院",
   "appId": "",
   "review": 0,
   "drawer": {
@@ -27,6 +28,28 @@
     "bg": "http://p3.itc.cn/images01/20210109/451a29b5a81d484a801825c588d7bfcd.jpeg"
   },
   "swipes": [
+    {
+      "title": "明日传奇 第七季",
+      "img": "https://pic.rmb.bdstatic.com/bjh/2e338429564b9f9f9b888f52b6a3a7a8.jpeg",
+      "href": "https://www.nunuyy.top/dianshiju/92030.html"
+    },
+    {
+      "title": "最爱",
+      "img": "https://pic.rmb.bdstatic.com/bjh/cbab551241d9ba84f11b465d9aa71566.jpeg",
+      "href": "https://www.nunuyy.cc/dianshiju/92093.html"
+    },
+    {
+      "title": "当家主母",
+      "img": "https://pic.rmb.bdstatic.com/bjh/ade0a79909a2509a53869d5d61a08c4e.jpeg",
+      "href": "https://www.nunuyy.top/dianshiju/92730.html"
+    },
+    {
+      "title": "逆局",
+      "img": "https://pic.rmb.bdstatic.com/bjh/0200881928732e81f063662ec8c63384.jpeg",
+      "href": "https://www.nunuyy.top/dianshiju/90833.html"
+    }
+  ],
+  "swipes_new": [
     {
       "title": "明日传奇 第七季",
       "img": "https://pic.rmb.bdstatic.com/bjh/2e338429564b9f9f9b888f52b6a3a7a8.jpeg",
@@ -232,7 +255,7 @@
   "excluded_filter_films": [
     "速度与激情"
   ],
-  "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
+  "search_hint_text": "请输入关键词，如\"亲爱的小孩\"",
   "intercept_tags": [
     "in-page-push",
     "google",

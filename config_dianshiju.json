@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "update": {
     "version": "2.2",
     "message": ""
@@ -16,7 +16,7 @@
     ".mp4"
   ],
   "limited": "0",
-  "limited_date": "1",
+  "limited_date": "0",
   "upgrade_desc": "您是否需要升级专业版解锁所有电视剧？",
   "in_app_productId": "android.com.lemon.dianshiju.removeads",
   "vipbg": "https://sneezeart.github.io/dianshiju/film_bg.jpeg",

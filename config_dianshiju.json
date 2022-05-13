@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
+  "version": "2.3.3",
   "update": {
     "version": "2.3",
     "message": ""
@@ -76,12 +76,6 @@
     }
   ],
   "swipes_new": [
-    {
-      "title": "电视直播 IPTV网络电视 广播电台",
-      "img": "https://coldstone1900.github.io/tv/support/ad1.png",
-      "href": "https://play.google.com/store/apps/details?id=com.douglassmaster.tv",
-      "type": 1
-    },
     {
       "title": "与君初相识·恰似故人归",
       "img": "https://img.win3000.com/m00/9e/6a/e11e126af1a1e3d0e58220ed0f82e73c.jpg",

@@ -1,5 +1,5 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "update": {
     "version": "2.2",
     "message": ""
@@ -76,12 +76,6 @@
     }
   ],
   "swipes_new": [
-    {
-      "title": "酷音乐 高品质在线音乐",
-      "img": "https://coldstone1900.github.io/topmusic/ad_topmusic.png",
-      "href": "https://play.google.com/store/apps/details?id=com.coldstone.topmusic",
-      "type": 1
-    },
     {
       "title": "电视直播 IPTV网络电视 广播电台",
       "img": "https://coldstone1900.github.io/tv/support/ad1.png",

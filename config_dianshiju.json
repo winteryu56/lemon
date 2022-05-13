@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
+  "version": "2.3.2",
   "update": {
     "version": "2.3",
     "message": ""
@@ -45,7 +45,7 @@
   "buffering_timeout": 30,
   "filter_results_enabled": 0,
   "native_play": 1,
-  "online_play_source": "© 2018-2022 蛋蛋赞影院",
+  "online_play_source": "© 2018-2022",
   "appId": "",
   "review": 0,
   "drawer": {

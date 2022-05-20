@@ -1,5 +1,5 @@
 {
-  "version": "2.4.1",
+  "version": "2.4.2",
   "update": {
     "version": "2.4",
     "message": "修复了一些问题，优化了播放体验"
@@ -47,7 +47,7 @@
   "native_play": 1,
   "online_play_source": "© 2018-2022",
   "appId": "",
-  "review": 1,
+  "review": 0,
   "drawer": {
     "txt": "你一直在追求一个叫大海的东西，其实你一直就在海里。",
     "author": "《心灵奇旅》",

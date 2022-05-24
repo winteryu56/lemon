@@ -1,5 +1,5 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "update": {
     "version": "2.5",
     "message": "修复播放过程中自动熄屏的问题，优化了播放体验"
@@ -76,6 +76,12 @@
     }
   ],
   "swipes_new": [
+    {
+      "title": "电视直播极速TV 新闻节目直播 广播电台 IPTV网络电视",
+      "img": "https://coldstone1900.github.io/tv/support/ad1.png",
+      "href": "https://play.google.com/store/apps/details?id=com.douglassmaster.tv",
+      "type": 1
+    },
     {
       "title": "与君初相识·恰似故人归",
       "img": "https://img.win3000.com/m00/9e/6a/e11e126af1a1e3d0e58220ed0f82e73c.jpg",

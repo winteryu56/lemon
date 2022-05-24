@@ -1,8 +1,8 @@
 {
-  "version": "2.4.2",
+  "version": "2.5.1",
   "update": {
-    "version": "2.4",
-    "message": "修复了一些问题，优化了播放体验"
+    "version": "2.5",
+    "message": "修复播放过程中自动熄屏问题，优化了播放体验"
   },
   "live_m3u8s": [
     ".mu3u8",
@@ -16,7 +16,7 @@
     ".mp4"
   ],
   "limited": "0",
-  "limited_date": "1",
+  "limited_date": "0",
   "upgrade_desc": "您是否需要升级专业版，解锁所有影视？",
   "in_app_productId": "android.com.lemon.dianying.removeads",
   "vipbg": "https://sneezeart.github.io/dianshiju/film_bg.jpeg",

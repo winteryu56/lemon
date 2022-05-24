@@ -1,8 +1,8 @@
 {
-  "version": "2.3.3",
+  "version": "2.5.1",
   "update": {
-    "version": "2.3",
-    "message": ""
+    "version": "2.5",
+    "message": "修复播放过程中自动熄屏的问题，优化了播放体验"
   },
   "live_m3u8s": [
     ".mu3u8",

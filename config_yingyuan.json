@@ -1,8 +1,8 @@
 {
-  "version": "2.6.2",
+  "version": "3.0.1",
   "update": {
-    "version": "2.6",
-    "message": "修复播放过程中自动熄屏的问题，优化了播放体验"
+    "version": "3.0",
+    "message": "修复了一些问题，优化了播放体验"
   },
   "live_m3u8s": [
     ".mu3u8",
@@ -15,7 +15,9 @@
     ".m3u8",
     ".mp4"
   ],
-  "limited": "1",
+  "transition": 0,
+  "review": 0,
+  "limited": "0",
   "limited_date": "0",
   "upgrade_desc": "您是否需要升级专业版，解锁所有影视视频？",
   "in_app_productId": "android.com.lemon.yingyuan.removeads",
@@ -47,7 +49,6 @@
   "native_play": 1,
   "online_play_source": "© 2018-2022",
   "appId": "",
-  "review": 0,
   "drawer": {
     "txt": "人呐，总是记住愿意记住的，忘记不愿意记住的。",
     "author": "《人世间》",

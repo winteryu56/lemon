@@ -1,8 +1,8 @@
 {
-  "version": "2.5.1",
+  "version": "3.0.1",
   "update": {
-    "version": "2.5",
-    "message": "修复播放过程中自动熄屏问题，优化了播放体验"
+    "version": "3.0",
+    "message": "修复了一些问题，优化了播放体验"
   },
   "live_m3u8s": [
     ".mu3u8",
@@ -15,6 +15,8 @@
     ".m3u8",
     ".mp4"
   ],
+  "transition": 0,
+  "review": 0,
   "limited": "0",
   "limited_date": "0",
   "upgrade_desc": "您是否需要升级专业版，解锁所有影视？",
@@ -47,7 +49,6 @@
   "native_play": 1,
   "online_play_source": "© 2018-2022",
   "appId": "",
-  "review": 0,
   "drawer": {
     "txt": "你一直在追求一个叫大海的东西，其实你一直就在海里。",
     "author": "《心灵奇旅》",

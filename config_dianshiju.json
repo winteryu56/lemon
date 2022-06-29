@@ -1,5 +1,5 @@
 {
-  "version": "3.0.2",
+  "version": "3.0.4",
   "update": {
     "version": "3.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -78,9 +78,9 @@
   ],
   "swipes_new": [
     {
-      "title": "电视直播极速TV 新闻节目直播 广播电台 IPTV网络电视",
-      "img": "https://coldstone1900.github.io/tv/support/ad1.png",
-      "href": "https://play.google.com/store/apps/details?id=com.douglassmaster.tv",
+      "title": "酷音乐 在线音乐 音乐播放器",
+      "img": "https://coldstone1900.github.io/topmusic/ad_topmusic.png",
+      "href": "https://play.google.com/store/apps/details?id=com.coldstone.topmusic",
       "type": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.2",
   "update": {
     "version": "3.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -16,7 +16,7 @@
     ".mp4"
   ],
   "transition": 0,
-  "review": 0,
+  "review": 1,
   "limited": "0",
   "limited_date": "0",
   "upgrade_desc": "您是否需要升级专业版，解锁所有影视视频？",

@@ -1,12 +1,12 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.3",
   "update": {
     "version": "2.0.0",
     "message": "优化播放体验"
   },
   "search_hint": "搜索音乐",
   "review": 0,
-  "limited": "4",
+  "limited": "3",
   "vipbg": "https://winteryu56.github.io/lemon/qmusic/bg.jpg",
   "vip": {
     "title": "升级专业版后，您将享有以下权利：",

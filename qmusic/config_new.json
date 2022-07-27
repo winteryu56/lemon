@@ -1,0 +1,303 @@
+{
+  "version": "2.0.0",
+  "update": {
+    "version": "2.0",
+    "message": "优化播放体验"
+  },
+  "search_hint": "搜索音乐",
+  "review": 1,
+  "limited": "4",
+  "vipbg": "https://coldstone1900.github.io/lightmusic/bg.jpg",
+  "vip": {
+    "title": "升级专业版后，您将享有以下权利：",
+    "title_vip": "您享有以下权利：",
+    "items": [
+      {
+        "icon": "lm_pro_music.png",
+        "title": "聆听所有音乐",
+        "subtitle": "在线聆听超过10000首的高音质音乐"
+      },
+      {
+        "icon": "lm_pro_download.png",
+        "title": "下载音乐",
+        "subtitle": "缓存音乐到本地，随时随地离线聆听"
+      },
+      {
+        "icon": "lm_pro_ad.png",
+        "title": "无广告",
+        "subtitle": "免除广告打扰，一个纯粹的音乐app"
+      }
+    ],
+    "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
+  },
+  "hot_banners": [
+    {
+      "musicHref": "3338301162",
+      "musicName": "为歌而赞第二季 Ι 老歌pk新歌",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/4/64/1657378801786_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "29613788",
+      "musicName": "中国说唱巅峰对决 第2期",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/20/86/1657378841204_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3336627481",
+      "musicName": "经典咏流传第五季 Ι 用经典讲述大美中华",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/79/13/1657383543367_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3344474759",
+      "musicName": "声生不息 Ι 传承经典港乐，完成新时代表达",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/66/97/1657470502281_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3326469472",
+      "musicName": "天赐的声音第三季 Ι 以音会友，为金曲而战",
+      "musicArtist": "",
+      "imageUrl": "https://img4.kuwo.cn/star/upload/1/1/1654235951841_.jpg",
+      "type": "2"
+    }
+  ],
+  "daily_config": {
+    "title": "每日推荐",
+    "items": [
+      {
+        "title": "发现好歌",
+        "image": "https://img1.kuwo.cn/star/userpl2015/32/54/1635932836211_504169632_700.jpg",
+        "id": "-1",
+        "url": "http://mobi.kuwo.cn/mobiweb.s?apiv=3&uid=2305777290&vip_member=1&source=kwplayer_ip_10.0.2.0_TJ.ipa&type=rcm_discover&tab=1&num=40&loginUid=0&prod=kwplayer_ip_10.0.2.0&notrace=0&f=web&kweexVersion=1.1.3"
+      },
+      {
+        "title": "新热好歌",
+        "image": "https://img1.kuwo.cn/star/userpl2015/62/91/1620054932023_362976562_700.jpg",
+        "id": "1082685104",
+        "url": "http://mobi.kuwo.cn/mobiweb.s?apiv=3&uid=2305777290&vip_member=1&source=kwplayer_ip_10.0.2.0_TJ.ipa&type=rcm_discover&tab=2&num=40&loginUid=0&prod=kwplayer_ip_10.0.2.0&notrace=0&f=web&kweexVersion=1.1.3"
+      }
+    ]
+  },
+  "bangs": [
+    {
+      "name": "酷我飙升榜",
+      "bangid": "93"
+    },
+    {
+      "name": "酷我新歌榜",
+      "bangid": "17"
+    },
+    {
+      "name": "酷我热歌榜",
+      "bangid": "16"
+    },
+    {
+      "name": "抖音热歌榜",
+      "bangid": "158"
+    },
+    {
+      "name": "酷我热评榜",
+      "bangid": "284"
+    },
+    {
+      "name": "ACG新歌榜",
+      "bangid": "290"
+    },
+    {
+      "name": "台湾KKBOX榜",
+      "bangid": "286"
+    },
+    {
+      "name": "春日浅唱榜",
+      "bangid": "279"
+    },
+    {
+      "name": "巴士随身听榜",
+      "bangid": "281"
+    },
+    {
+      "name": "KTV点唱榜",
+      "bangid": "255"
+    },
+    {
+      "name": "家务进行曲榜",
+      "bangid": "280"
+    },
+    {
+      "name": "熬夜修仙榜",
+      "bangid": "282"
+    },
+    {
+      "name": "枕边轻音乐榜",
+      "bangid": "283"
+    },
+    {
+      "name": "古风音乐榜",
+      "bangid": "278"
+    },
+    {
+      "name": "Vlog音乐榜",
+      "bangid": "264"
+    },
+    {
+      "name": "酷我电音榜",
+      "bangid": "242"
+    },
+    {
+      "name": "流行趋势榜",
+      "bangid": "187"
+    },
+    {
+      "name": "现场音乐榜",
+      "bangid": "204"
+    },
+    {
+      "name": "ACG神曲榜",
+      "bangid": "186"
+    },
+    {
+      "name": "最强翻唱榜",
+      "bangid": "185"
+    },
+    {
+      "name": "经典怀旧榜",
+      "bangid": "26"
+    },
+    {
+      "name": "酷我华语榜",
+      "bangid": "104"
+    },
+    {
+      "name": "酷我粤语榜",
+      "bangid": "182"
+    },
+    {
+      "name": "酷我欧美榜",
+      "bangid": "22"
+    },
+    {
+      "name": "酷我韩语榜",
+      "bangid": "184"
+    },
+    {
+      "name": "酷我日语榜",
+      "bangid": "183"
+    },
+    {
+      "name": "会员畅听榜",
+      "bangid": "145"
+    },
+    {
+      "name": "网红新歌榜",
+      "bangid": "153"
+    },
+    {
+      "name": "影视金曲榜",
+      "bangid": "64"
+    },
+    {
+      "name": "DJ嗨歌榜",
+      "bangid": "176"
+    },
+    {
+      "name": "酷我真声音",
+      "bangid": "106"
+    },
+    {
+      "name": "Billboard榜",
+      "bangid": "12"
+    },
+    {
+      "name": "iTunes音乐榜",
+      "bangid": "49"
+    },
+    {
+      "name": "beatport电音榜",
+      "bangid": "180"
+    },
+    {
+      "name": "英国UK榜",
+      "bangid": "13"
+    },
+    {
+      "name": "百大DJ榜",
+      "bangid": "164"
+    },
+    {
+      "name": "YouTube音乐排行榜",
+      "bangid": "246"
+    },
+    {
+      "name": "韩国Genie榜",
+      "bangid": "265"
+    },
+    {
+      "name": "韩国M-net榜",
+      "bangid": "14"
+    },
+    {
+      "name": "香港电台榜",
+      "bangid": "8"
+    },
+    {
+      "name": "日本公信榜",
+      "bangid": "15"
+    },
+    {
+      "name": "腾讯音乐人原创榜",
+      "bangid": "151"
+    }
+  ],
+  "singers": [
+    {
+      "name": "全部",
+      "id": "0"
+    },
+    {
+      "name": "华语男",
+      "id": "1"
+    },
+    {
+      "name": "华语女",
+      "id": "2"
+    },
+    {
+      "name": "华语组合",
+      "id": "3"
+    },
+    {
+      "name": "日韩男",
+      "id": "4"
+    },
+    {
+      "name": "日韩女",
+      "id": "5"
+    },
+    {
+      "name": "日韩组合",
+      "id": "6"
+    },
+    {
+      "name": "欧美男",
+      "id": "7"
+    },
+    {
+      "name": "欧美女",
+      "id": "8"
+    },
+    {
+      "name": "欧美组合",
+      "id": "9"
+    },
+    {
+      "name": "其他",
+      "id": "10"
+    }
+  ]
+}

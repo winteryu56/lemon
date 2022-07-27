@@ -1,51 +1,101 @@
 {
-  "version": "1.6.1",
+  "version": "3.0.7",
   "update": {
-    "version": "1.6",
-    "message": ""
+    "version": "3.0",
+    "message": "修复了一些问题，优化了播放体验"
   },
   "live_m3u8s": [
     ".mu3u8",
     ".mp4",
     "play.php"
   ],
-  "film_url": "https://www.nunuyy.top",
-  "film_url_host": "www.nunuyy.top",
+  "film_url": "https://www.dandanzan10.top",
+  "film_url_host": "www.dandanzan10.top",
   "film_m3u8s": [
     ".m3u8",
     ".mp4"
   ],
+  "transition": 1,
+  "review": 0,
+  "limited": "1",
+  "limited_date": "1",
+  "upgrade_desc": "您是否需要升级专业版，解锁所有影视？",
+  "in_app_productId": "android.com.lemon.dianying.removeads",
+  "vipbg": "https://sneezeart.github.io/dianshiju/film_bg.jpeg",
+  "vip": {
+    "title": "升级专业版后，您将享有以下权利：",
+    "title_vip": "您享有以下权利：",
+    "items": [
+      {
+        "icon": "ds_dianshi.png",
+        "title": "观看所有影视视频",
+        "subtitle": "在线观看超过10000部高清影视视频"
+      },
+      {
+        "icon": "ds_hot.png",
+        "title": "资源实时更新",
+        "subtitle": "超多热门影视资源实时同步"
+      },
+      {
+        "icon": "ds_pro_ad.png",
+        "title": "无广告",
+        "subtitle": "免除广告打扰，一个纯粹的电影app"
+      }
+    ],
+    "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
+  },
   "buffering_timeout": 30,
   "filter_results_enabled": 0,
   "native_play": 1,
-  "online_play_source": "© 2018-2021 努努影院",
+  "online_play_source": "© 2018-2022",
   "appId": "",
-  "review": 0,
   "drawer": {
-    "txt": "把寻常的人生过好，才是最不寻常的事。",
+    "txt": "你一直在追求一个叫大海的东西，其实你一直就在海里。",
     "author": "《心灵奇旅》",
-    "bg": "http://wx1.sinaimg.cn/crop.124.0.1294.719/9d0d09ably1gg7t0xry57j21c40k0nkc.jpg"
+    "bg": "https://img2.doubanio.com/view/photo/l/public/p2653511123.webp"
   },
   "swipes": [
     {
-      "title": "沙丘 Dune (2021)",
-      "img": "https://pic.rmb.bdstatic.com/bjh/4ccc95cc03fb9176c8570529a3002ffc.jpeg",
-      "href": "https://www.nunuyy.top/dianying/89996.html"
+      "title": "明日传奇 第七季",
+      "img": "https://pic.rmb.bdstatic.com/bjh/2e338429564b9f9f9b888f52b6a3a7a8.jpeg",
+      "href": "https://www.dandanzan10.top/dianshiju/92030.html"
     },
     {
-      "title": "五个扑水的少年",
-      "img": "https://pic.rmb.bdstatic.com/bjh/124a1f652ed983d4ac29b97decca27e2.jpeg",
-      "href": "https://www.nunuyy.top/dianying/90969.html"
+      "title": "最爱",
+      "img": "https://pic.rmb.bdstatic.com/bjh/cbab551241d9ba84f11b465d9aa71566.jpeg",
+      "href": "https://www.dandanzan10.cc/dianshiju/92093.html"
     },
     {
-      "title": "兰斯基",
-      "img": "https://pic.rmb.bdstatic.com/bjh/affbacbb8bcd9cae48a3b990e9dc6190.jpeg",
-      "href": "https://www.nunuyy.top/dianying/89468.html"
+      "title": "当家主母",
+      "img": "https://pic.rmb.bdstatic.com/bjh/ade0a79909a2509a53869d5d61a08c4e.jpeg",
+      "href": "https://www.dandanzan10.top/dianshiju/92730.html"
     },
     {
-      "title": "摩加迪沙",
-      "img": "https://pic.rmb.bdstatic.com/bjh/4a6f290b661d4fe09610d906546ccf11.jpeg",
-      "href": "https://www.nunuyy.top/dianying/91392.html"
+      "title": "逆局",
+      "img": "https://pic.rmb.bdstatic.com/bjh/0200881928732e81f063662ec8c63384.jpeg",
+      "href": "https://www.dandanzan10.top/dianshiju/90833.html"
+    }
+  ],
+  "swipes_new": [
+    {
+      "title": "真人快打",
+      "img": "http://n.sinaimg.cn/spider2021311/596/w2048h948/20210311/5ba3-kmeeius6334146.jpg",
+      "href": "https://www.dandanzan10.top/dianying/86813.html"
+    },
+    {
+      "title": "峰爆",
+      "img": "https://pic3.zhimg.com/v2-ab07b937ac2f749d7322843eddba9b1a_1440w.jpg?source=172ae18b",
+      "href": "https://www.dandanzan10.top/dianying/91057.html"
+    },
+    {
+      "title": "电锯惊魂9：漩涡",
+      "img": "https://img9.doubanio.com/view/photo/l/public/p2643158784.webp",
+      "href": "https://www.dandanzan10.top/dianying/61643.html"
+    },
+    {
+      "title": "暗夜博士：莫比亚斯",
+      "img": "https://p9.itc.cn/q_70/images03/20211206/33f9f61c7de54e0cb792873182e499be.jpeg",
+      "href": "https://www.dandanzan10.top/dianying/54777.html"
     }
   ],
   "announce": {
@@ -56,7 +106,7 @@
         "content": "本App所有资源"
       },
       {
-        "content": "来源于第三方搜索引擎，柠檬视频无权增加、修改、删除任何信息。\n\n",
+        "content": "来源于第三方搜索引擎，柠檬电影无权增加、修改、删除任何信息。\n\n",
         "highlight": "1"
       },
       {
@@ -224,12 +274,15 @@
     "解救吾先生",
     "困惑的浪漫",
     "交换的一天",
-    "幸福出租车"
+    "幸福出租车",
+    "肉体",
+    "一个女孩和一个男孩",
+    "拉斯维加斯快车道"
   ],
   "excluded_filter_films": [
     "速度与激情"
   ],
-  "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
+  "search_hint_text": "请输入关键词，如\"长津湖\"",
   "intercept_tags": [
     "in-page-push",
     "google",

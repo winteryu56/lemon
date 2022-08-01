@@ -1,5 +1,5 @@
 {
-  "version": "3.0.5",
+  "version": "3.0.6",
   "update": {
     "version": "3.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -77,6 +77,12 @@
     }
   ],
   "swipes_new": [
+    {
+      "title": "悦听音乐 在线音乐 音乐播放器",
+      "img": "https://winteryu56.github.io/lemon/qmusic/lightmusic_ad.png",
+      "href": "https://play.google.com/store/apps/details?id=com.lemon.qmusic",
+      "type": 1
+    },
     {
       "title": "奇异博士2：疯狂多元宇宙",
       "img": "https://img1.mydrivers.com/img/20220422/1a921a79-6e9b-458f-85d3-28ee0b35eb89.jpg",

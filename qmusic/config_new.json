@@ -1,5 +1,5 @@
 {
-  "version": "2.1.6",
+  "version": "2.1.8",
   "update": {
     "version": "2.1.0",
     "message": "优化播放体验"
@@ -33,17 +33,17 @@
   },
   "hot_banners": [
     {
-      "musicHref": "3338301162",
-      "musicName": "为歌而赞第二季 Ι 老歌pk新歌",
+      "musicHref": "3371381148",
+      "musicName": "中国巅峰说唱对决 Ι 实力rapper集结",
       "musicArtist": "",
-      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/4/64/1657378801786_.jpg",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/89/9/1659191383565_.jpg",
       "type": "2"
     },
     {
-      "musicHref": "29613788",
-      "musicName": "中国说唱巅峰对决 第2期",
+      "musicHref": "3382552497",
+      "musicName": "超感星电音 Ι 体验超乎想象电音之旅",
       "musicArtist": "",
-      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/20/86/1657378841204_.jpg",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/96/63/1659062254606_.jpg",
       "type": "2"
     },
     {

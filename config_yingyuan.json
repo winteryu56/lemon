@@ -1,7 +1,7 @@
 {
-  "version": "3.1.1",
+  "version": "3.3.1",
   "update": {
-    "version": "3.0",
+    "version": "3.3",
     "message": "修复了一些问题，优化了播放体验"
   },
   "live_m3u8s": [
@@ -285,6 +285,7 @@
   "excluded_filter_films": [
     "速度与激情"
   ],
+  "filter_categories": ["伦理"],
   "search_hint_text": "搜索电影、电视剧、综艺、动漫...",
   "intercept_tags": [
     "in-page-push",

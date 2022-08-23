@@ -1,5 +1,5 @@
 {
-  "version": "3.3.2",
+  "version": "3.3.3",
   "update": {
     "version": "3.3",
     "message": "修复了一些问题，优化了播放体验"
@@ -78,30 +78,30 @@
   ],
   "swipes_new": [
     {
-      "title": "悦听音乐 在线音乐 音乐播放器",
+      "title": "i听音乐 在线音乐 音乐播放器",
       "img": "https://winteryu56.github.io/lemon/qmusic/lightmusic_ad.png",
       "href": "https://play.google.com/store/apps/details?id=com.lemon.qmusic",
       "type": 1
     },
     {
-      "title": "奇异博士2：疯狂多元宇宙",
-      "img": "https://img1.mydrivers.com/img/20220422/1a921a79-6e9b-458f-85d3-28ee0b35eb89.jpg",
-      "href": "https://www.dandanzan10.top/dianying/97523.html"
+        "title": "壮志凌云2：独行侠",
+        "img": "https://img1.doubanio.com/view/photo/l/public/p2870609949.jpg",
+        "href": "https://www.dandanzan10.top/dianying/43817.html"
     },
     {
-      "title": "且试天下",
-      "img": "https://wx1.sinaimg.cn/mw2000/006tSG3kly1h1dw2mu9lkj33lm1jkx6s.jpg",
-      "href": "https://www.dandanzan10.top/dianshiju/91621.html"
+        "title": "星汉灿烂·月升沧海",
+        "img": "https://img9.doubanio.com/view/photo/l/public/p2876845146.jpg",
+        "href": "https://www.dandanzan10.top/dianshiju/104489.html"
     },
     {
-      "title": "王牌对王牌 第七季",
-      "img": "https://img.zcool.cn/community/01459459a71925a801211d25b965ec.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/format,webp/quality,Q_100",
-      "href": "https://www.dandanzan10.top/zongyi/97450.html"
+        "title": "中国说唱巅峰对决",
+        "img": "https://kwimg3.kuwo.cn/star/upload/92/16/1661012827742_.jpg",
+        "href": "https://www.dandanzan10.top/zongyi/104013.html"
     },
     {
-      "title": "完美世界",
-      "img": "https://inews.gtimg.com/newsapp_bt/0/13446522328/1000",
-      "href": "https://www.dandanzan10.top/dongman/86774.html"
+        "title": "凡人修仙传：魔道争锋",
+        "img": "https://coldstone1900.github.io/filmku/frxxz.webp",
+        "href": "https://www.dandanzan10.top/dongman/92627.html"
     }
   ],
   "announce": {

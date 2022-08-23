@@ -1,5 +1,5 @@
 {
-  "version": "3.3.2",
+  "version": "3.3.3",
   "update": {
     "version": "3.3",
     "message": "修复了一些问题，优化了播放体验"
@@ -78,30 +78,30 @@
   ],
   "swipes_new": [
     {
-      "title": "悦听音乐 在线音乐 音乐播放器",
+      "title": "i听音乐 在线音乐 音乐播放器",
       "img": "https://winteryu56.github.io/lemon/qmusic/lightmusic_ad.png",
       "href": "https://play.google.com/store/apps/details?id=com.lemon.qmusic",
       "type": 1
     },
     {
-      "title": "真人快打",
-      "img": "http://n.sinaimg.cn/spider2021311/596/w2048h948/20210311/5ba3-kmeeius6334146.jpg",
-      "href": "https://www.dandanzan10.top/dianying/86813.html"
+      "title": "追虎擒龙",
+      "img": "https://img2.doubanio.com/view/photo/l/public/p2640074161.jpg",
+      "href": "https://www.dandanzan10.top/dianying/86999.html"
     },
     {
-      "title": "峰爆",
-      "img": "https://pic3.zhimg.com/v2-ab07b937ac2f749d7322843eddba9b1a_1440w.jpg?source=172ae18b",
-      "href": "https://www.dandanzan10.top/dianying/91057.html"
+      "title": "壮志凌云2：独行侠",
+      "img": "https://img1.doubanio.com/view/photo/l/public/p2870609949.jpg",
+      "href": "https://www.dandanzan10.top/dianying/43817.html"
     },
     {
-      "title": "电锯惊魂9：漩涡",
-      "img": "https://img9.doubanio.com/view/photo/l/public/p2643158784.webp",
-      "href": "https://www.dandanzan10.top/dianying/61643.html"
+      "title": "反贪风暴5：最终章",
+      "img": "https://img2.doubanio.com/view/photo/l/public/p2779965643.jpg",
+      "href": "https://www.dandanzan10.top/dianying/95014.html"
     },
     {
-      "title": "暗夜博士：莫比亚斯",
-      "img": "https://p9.itc.cn/q_70/images03/20211206/33f9f61c7de54e0cb792873182e499be.jpeg",
-      "href": "https://www.dandanzan10.top/dianying/54777.html"
+      "title": "奇迹·笨小孩",
+      "img": "https://img1.doubanio.com/view/photo/l/public/p2813191049.jpg",
+      "href": "https://www.dandanzan10.top/dianying/96512.html"
     }
   ],
   "announce": {

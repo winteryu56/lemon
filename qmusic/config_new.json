@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "update": {
     "version": "2.2.0",
     "message": "优化播放体验"
@@ -36,14 +36,21 @@
       "musicHref": "3371381148",
       "musicName": "中国巅峰说唱对决 Ι 实力rapper集结",
       "musicArtist": "",
-      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/89/9/1659191383565_.jpg",
+      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/92/16/1661012827742_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3389865603",
+      "musicName": "2022中国好声音 Ι 寻找梦想之声",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/82/30/1661013373420_.jpg",
       "type": "2"
     },
     {
       "musicHref": "3382552497",
       "musicName": "超感星电音 Ι 体验超乎想象电音之旅",
       "musicArtist": "",
-      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/96/63/1659062254606_.jpg",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/56/62/1660896664076_.jpg",
       "type": "2"
     },
     {
@@ -51,20 +58,6 @@
       "musicName": "经典咏流传第五季 Ι 用经典讲述大美中华",
       "musicArtist": "",
       "imageUrl": "https://kwimg1.kuwo.cn/star/upload/79/13/1657383543367_.jpg",
-      "type": "2"
-    },
-    {
-      "musicHref": "3344474759",
-      "musicName": "声生不息 Ι 传承经典港乐，完成新时代表达",
-      "musicArtist": "",
-      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/66/97/1657470502281_.jpg",
-      "type": "2"
-    },
-    {
-      "musicHref": "3326469472",
-      "musicName": "天赐的声音第三季 Ι 以音会友，为金曲而战",
-      "musicArtist": "",
-      "imageUrl": "https://img4.kuwo.cn/star/upload/1/1/1654235951841_.jpg",
       "type": "2"
     }
   ],

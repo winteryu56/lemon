@@ -1,7 +1,7 @@
 {
-  "version": "3.3.6",
+  "version": "3.4.1",
   "update": {
-    "version": "3.3",
+    "version": "3.4.0",
     "message": "修复了一些问题，优化了播放体验"
   },
   "live_m3u8s": [

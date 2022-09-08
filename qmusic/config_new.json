@@ -1,11 +1,11 @@
 {
-  "version": "2.2.3",
+  "version": "2.2.4",
   "update": {
     "version": "2.2.0",
     "message": "优化播放体验"
   },
   "search_hint": "搜索音乐",
-  "review": 1,
+  "review": 0,
   "limited": "4",
   "alternative": 0,
   "vipbg": "https://winteryu56.github.io/lemon/qmusic/bg.jpg",
@@ -33,24 +33,24 @@
   },
   "hot_banners": [
     {
+      "musicHref": "3382552497",
+      "musicName": "超感星电音 Ι 体验超乎想象电音之旅",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/90/32/1661438485368_.jpg",
+      "type": "2"
+    },
+    {
       "musicHref": "3371381148",
       "musicName": "中国巅峰说唱对决 Ι 实力rapper集结",
       "musicArtist": "",
-      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/92/16/1661012827742_.jpg",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/73/8/1661616720100_.jpg",
       "type": "2"
     },
     {
       "musicHref": "3389865603",
       "musicName": "2022中国好声音 Ι 寻找梦想之声",
       "musicArtist": "",
-      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/82/30/1661013373420_.jpg",
-      "type": "2"
-    },
-    {
-      "musicHref": "3382552497",
-      "musicName": "超感星电音 Ι 体验超乎想象电音之旅",
-      "musicArtist": "",
-      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/56/62/1660896664076_.jpg",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/92/2/1662134785040_.jpg",
       "type": "2"
     },
     {

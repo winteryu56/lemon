@@ -1,5 +1,5 @@
 {
-  "version": "3.4.1",
+  "version": "3.4.2",
   "update": {
     "version": "3.4.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -78,7 +78,7 @@
   ],
   "swipes_new": [
     {
-      "title": "i听音乐 在线音乐 音乐播放器",
+      "title": "天天听音乐 在线音乐 音乐播放器",
       "img": "https://winteryu56.github.io/lemon/qmusic/lightmusic_ad.png",
       "href": "https://play.google.com/store/apps/details?id=com.lemon.qmusic",
       "type": 1

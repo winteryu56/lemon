@@ -1,5 +1,5 @@
 {
-  "version": "3.4.2",
+  "version": "3.4.4",
   "update": {
     "version": "3.4.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -84,24 +84,24 @@
       "type": 1
     },
     {
-        "title": "壮志凌云2：独行侠",
-        "img": "https://img1.doubanio.com/view/photo/l/public/p2870609949.jpg",
-        "href": "https://www.dandanzan10.top/dianying/43817.html"
+      "title": "尚气与十环传奇",
+      "img": "https://img1.doubanio.com/view/photo/l/public/p2725905778.jpg",
+      "href": "https://www.dandanzan10.top/dianying/88881.html"
     },
     {
-        "title": "星汉灿烂·月升沧海",
-        "img": "https://img9.doubanio.com/view/photo/l/public/p2876845146.jpg",
-        "href": "https://www.dandanzan10.top/dianshiju/104489.html"
+      "title": "苍兰诀",
+      "img": "https://img2.doubanio.com/view/photo/l/public/p2640370611.jpg",
+      "href": "https://www.dandanzan10.top/dianshiju/103118.html"
     },
     {
-        "title": "中国说唱巅峰对决",
-        "img": "https://kwimg3.kuwo.cn/star/upload/92/16/1661012827742_.jpg",
-        "href": "https://www.dandanzan10.top/zongyi/104013.html"
+      "title": "披荆斩棘",
+      "img": "https://img1.doubanio.com/view/photo/l/public/p2878838228.jpg",
+      "href": "https://www.dandanzan10.top/zongyi/107536.html"
     },
     {
-        "title": "凡人修仙传：魔道争锋",
-        "img": "https://coldstone1900.github.io/filmku/frxxz.webp",
-        "href": "https://www.dandanzan10.top/dongman/92627.html"
+      "title": "完美世界",
+      "img": "https://img1.doubanio.com/view/photo/l/public/p2853695468.jpg",
+      "href": "https://www.dandanzan10.top/dongman/86774.html"
     }
   ],
   "announce": {
@@ -288,7 +288,9 @@
   "excluded_filter_films": [
     "速度与激情"
   ],
-  "filter_categories": ["伦理"],
+  "filter_categories": [
+    "伦理"
+  ],
   "search_hint_text": "搜索电影、电视剧、综艺、动漫...",
   "intercept_tags": [
     "in-page-push",

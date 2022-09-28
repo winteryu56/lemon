@@ -1,5 +1,5 @@
 {
-  "version": "2.2.6",
+  "version": "2.2.7",
   "update": {
     "version": "2.2.0",
     "message": "优化播放体验"
@@ -36,7 +36,7 @@
       "musicHref": "3389865603",
       "musicName": "2022中国好声音 Ι 十年相伴，寻找梦想之音",
       "musicArtist": "",
-      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/88/94/1663343236852_.jpg",
+      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/17/46/1664178697682_.jpg",
       "type": "2"
     },
     {
@@ -50,7 +50,7 @@
       "musicHref": "3382552497",
       "musicName": "超感星电音 Ι 体验超乎想象电音之旅",
       "musicArtist": "",
-      "imageUrl": "https://kwimg4.kuwo.cn/star/upload/45/29/1663306308819_.jpg",
+      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/29/35/1663909154453_.jpg",
       "type": "2"
     },
     {

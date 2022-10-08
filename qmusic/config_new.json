@@ -1,10 +1,10 @@
 {
-  "version": "2.2.7",
+  "version": "2.3.1",
   "update": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "message": "优化播放体验"
   },
-  "search_hint": "搜索音乐",
+  "search_hint": "搜索音乐/MV/歌单/歌手",
   "review": 0,
   "limited": "4",
   "alternative": 0,
@@ -36,7 +36,7 @@
       "musicHref": "3389865603",
       "musicName": "2022中国好声音 Ι 十年相伴，寻找梦想之音",
       "musicArtist": "",
-      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/17/46/1664178697682_.jpg",
+      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/58/27/1664812863013_.jpg",
       "type": "2"
     },
     {
@@ -47,17 +47,17 @@
       "type": "2"
     },
     {
-      "musicHref": "3382552497",
-      "musicName": "超感星电音 Ι 体验超乎想象电音之旅",
+      "musicHref": "3402143715",
+      "musicName": "酸与甜：秋日情歌放送",
       "musicArtist": "",
-      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/29/35/1663909154453_.jpg",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/51/25/1664633648157_.jpg",
       "type": "2"
     },
     {
-      "musicHref": "3336627481",
-      "musicName": "经典咏流传第五季 Ι 用经典讲述大美中华",
+      "musicHref": "3394586937",
+      "musicName": "【古风古韵】古风歌曲合集",
       "musicArtist": "",
-      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/79/13/1657383543367_.jpg",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/13/28/1664633496946_.jpg",
       "type": "2"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "update": {
     "version": "1.7",
     "message": "修复了一些问题"
@@ -219,7 +219,8 @@
     "解救吾先生",
     "困惑的浪漫",
     "交换的一天",
-    "幸福出租车"
+    "幸福出租车",
+    "昆仑神宫"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,

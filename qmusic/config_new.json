@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
+  "version": "2.3.4",
   "update": {
     "version": "2.3.0",
     "message": "优化播放体验"
@@ -36,7 +36,7 @@
       "musicHref": "3405065242",
       "musicName": "我们的歌第四季 Ι 再叙光阴的故事",
       "musicArtist": "",
-      "imageUrl": "https://kwimg4.kuwo.cn/star/upload/32/12/1667752065572_.jpg",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/31/31/1668934188337_.jpg",
       "type": "2"
     },
     {
@@ -54,10 +54,10 @@
       "type": "2"
     },
     {
-      "musicHref": "3394586937",
-      "musicName": "【古风古韵】古风歌曲合集",
+      "musicHref": "3415057234",
+      "musicName": "欢快节奏开启，好心情一起来",
       "musicArtist": "",
-      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/13/28/1664633496946_.jpg",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/58/4/1668047536642_.jpg",
       "type": "2"
     }
   ],
